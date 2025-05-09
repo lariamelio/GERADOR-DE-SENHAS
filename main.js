@@ -1,16 +1,3 @@
-Conversa aberta. Uma mensagem não lida.
-
-Pular para o conteúdo
-Como usar o E-mail de SEED com leitores de tela
-Não é possível conectar ao bate-papo. Saiba mais
-1 de 62
-(sem assunto)
-Caixa de entrada
-
-RAQUELLY NATHALY LOURENCO E SILVA
-10:53 (há 0 minuto)
-para LUANNA, mim
-
 const numeroSenha = document.querySelector('.parametro-senha__texto');
 let tamanhoSenha = 12;
 numeroSenha.textContent = tamanhoSenha;
